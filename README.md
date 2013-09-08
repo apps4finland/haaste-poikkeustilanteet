@@ -1,4 +1,4 @@
-## Tässä kansiossa: kaikki tarpeellinen stressin vähentämi- seksi kun bussi ei tule tai ratikka vaihtaa väärille raiteille
+## Tässä kansiossa: kaikki tarpeellinen stressin vähentämiseksi kun bussi ei tule tai ratikka vaihtaa väärille raiteille
 
 Tämä on Apps4Finland-kilpailun _Poikkeustilanteiden hallinta_ -haastetta varten koottu tukipaketti. 
 
