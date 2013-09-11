@@ -6,10 +6,10 @@ Tämä on Apps4Finland-kilpailun _Poikkeustilanteiden hallinta_ -haastetta varte
 ## Haaste sinulle
 
 Joukkoliikennejärjestelmä ei aina toimi niin kuin aikataulukirjassa lukee tai
-niin kuin nykyiset Reittiopas-sovellukset neuvovat. Puutteelliset ohjeet ja
-muutokset totutuissa reiteissä stressaavat matkustajia, jotka eivät aina
-löydä ajoissa perille. Poikkeustilanneviestinnän parantaminen on tärkeä osa
-joukkoliikenteen toimivuutta. Haasteena on parantaa poikkeustilanteiden
+niin kuin nykyiset Reittiopas-sovellukset neuvovat. Täydellisimmätkään ohjeet
+eivät päde kaikissa tilanteissa ja muutokset tutuissa reiteissä stressaavat
+matkustajia ainakin silloin kun on kiire. Poikkeustilanneviestinnän parantaminen
+on tärkeä osa joukkoliikenteen toimivuutta. Haasteena on parantaa poikkeustilanteiden
 hallintaa matkustajan perspektiivistä. Ratkaisu voi kuvata joukkoliikenteeseen
 liittyviä poikkeustilanteita kattavammin, ennustaa niitä paremmin, lisätä
 matkustajien tietoisuutta niistä, neuvoa matkustajia välttämään niitä, auttaa
