@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Disruptions example</title>
+<style type="text/css">
+ body {
+  font-family: Helvetica,Arial,sans-serif;
+ }
+ table {
+  border-collapse: collapse;
+ }
+ tr {
+  cursor: pointer;
+ }
+ th, td {
+  border: 1px solid #000;
+  vertical-align: top;
+ }
+ td.info {
+  border-width: 0;
+ }
+ th {
+  background-color: #CCC;
+ }
+ .line {
+  text-align: center;
+ }
+ .count, .avg {
+  text-align: right;
+  padding-right: 0.5em;
+ }
+ .from, .to {
+  white-space: nowrap;
+ }
+ td.count {
+  text-decoration: underline;
+ }
+ td.info td, td.info th {
+  font-size: small;
+  padding: 0 0.5em;
+ }
+ td table, td tr, td td {
+  margin: 0;
+ }
+</style>
+</head>
+<body>
+<h1>Disruptions example</h1>
+<div id="container"></div>
+<script type="text/javascript">
+ var count_url = 'http://pubtrans.it/hsl/disrupt/';
+ var line_url = 'http://pubtrans.it/hsl/disrupt/line/';
+
+ var c = document.getElementById('container');
+ var currentTr;
+ mainHeaders = {'line': 'Line', 'count': 'Disruptions', 'avg': 'Yearly'}
+ var infoKeys = ['from', 'to', 'en'];
+
+ var xhr = new XMLHttpRequest();
+
+ xhr.onreadystatechange = showLines;
+ xhr.open("GET", count_url, false);
+ xhr.send();
+
+ function showLines() {
+  if ((xhr.readyState == 4) && (xhr.status == 200)) {
+   var t = document.createElement('table');
+   var tr = document.createElement('tr');
+   for (var i in mainHeaders) {
+    var th = document.createElement('th');
+    th.className = i;
+    th.appendChild(document.createTextNode(mainHeaders[i]));
+    tr.appendChild(th);
+   }
+   t.appendChild(tr);
+   var res = JSON.parse(xhr.responseText);
+   var disruptions = res.disruptions;
+   var days = res.days;
+   for (var i = 0; i<disruptions.length; i++) {
+    var tr = document.createElement('tr');
+    tr.className = disruptions[i]['line'];
+    tr.onclick = getDisruptions;
+    var th = document.createElement('th');
+    th.className = 'line';
+    th.appendChild(document.createTextNode(disruptions[i]['name']));
+    tr.appendChild(th);
+    var td = document.createElement('td');
+    td.className = 'count';
+    td.appendChild(document.createTextNode(disruptions[i]['count']));
+    tr.appendChild(td);
+    td = document.createElement('td');
+    td.className = 'avg';
+    var avg = new String(Math.round(disruptions[i]['count']/days*365*100)/100);
+    tmp = avg.split('.')[1];
+    if (!tmp) {
+     avg += '' + '.00';
+    }
+    else if (tmp.length == 1) {
+     avg += '' + '0';
+    }
+    td.appendChild(document.createTextNode(avg));
+    tr.appendChild(td);
+    t.appendChild(tr);
+   }
+   c.appendChild(t);
+  }
+ }
+
+ function getDisruptions() {
+  currentTr = this;
+  var line = this.className;
+  xhr.abort();
+  xhr.onreadystatechange = showDisruptions;
+  xhr.open("GET", line_url + line, false);
+  xhr.send();
+ }
+
+ function showDisruptions() {
+  if ((xhr.readyState == 4) && (xhr.status == 200)) {
+   var t = document.createElement('table');
+   var res = JSON.parse(xhr.responseText);
+   var infos = res;
+   for (var i = 0; i<infos.length; i++) {
+    if (i==0) {
+     var tr = document.createElement('tr');
+     for (var j in infoKeys) {
+      var k = infoKeys[j];
+      var th = document.createElement('th');
+      th.className = k;
+      th.appendChild(document.createTextNode(k));
+      tr.appendChild(th);
+     }
+     t.appendChild(tr);
+    }
+    var tr = document.createElement('tr');
+    for (var j in infoKeys) {
+     var k = infoKeys[j];
+     var td = document.createElement('td');
+     td.className = k;
+     td.appendChild(document.createTextNode(infos[i][k]));
+     tr.appendChild(td);
+    }
+    t.appendChild(tr);
+   }
+   var td = document.createElement('td');
+   td.className = 'info';
+   // td.appendChild(document.createTextNode(t));
+   td.appendChild(t);
+   currentTr.appendChild(td);
+   currentTr.onclick = hideMe;
+  }
+ }
+
+ function hideMe() {
+  this.lastChild.firstChild.style.display = 'none';
+  this.onclick = showMe;
+ }
+
+ function showMe() {
+  this.lastChild.firstChild.style.display = 'table';
+  this.onclick = hideMe;
+ }
+
+</script>
+</body>
+</html>
