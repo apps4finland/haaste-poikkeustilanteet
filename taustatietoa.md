@@ -9,7 +9,7 @@ että tiedotteita ei huomata, niitä ei kirjata, niitä ei kuvata tarkasti ja
 rakenteisesti, niitä ei välitetä eteenpäin ajoissa. Poikkeustilannetiedotteita
 ei myöskään osata kaivata, eivätkä asiakkaat tilaa tai lue niitä. Monasti
 tiedotteet on myös muotoiltu monimutkaisesti tai epäselvästi, eivätkä
-matkustajat ymmärrä niitä.
+matkustajat ymmärrä niitä. Poikkeustiedotteita ei myöskään aina voida kohdistaa riittävän tarkasti tiettyyn lähtöön.
 
 Periaattessa poikkeustilannetiedotteiden avulla voisi matkustaja muuttaa
 toimintaansa, mutta käytännössä ei kuitenkaan ole aikaa miettiä mutkikkailta
@@ -26,12 +26,16 @@ linjoilla on myös tiheä vuoroväli, jolloin seuraava vuoro tulee pian. Lisäks
 reitit ovat selkeitä. Matkustajat käyttävät selkeitä ja tiheätaajuuksisia
 linjoja epäluotettavina pitämiään linjoja enemmän.
 
-* Jaetaan poikkeusliikennetiedotteita Twitterissä, jolloin kyseistä
-viestintävälinettä käyttävät matkustajat voivat seurata niitä ja saada niistä
-push-notifikaatioita puhelimeensa.
+* Näytetään poikkeustiedotteita Reittioppaan tulosten yhteydessä, pysäkkinäytöillä, hsl.fi -sivuilla
+
+* Poikkeusinfo.fi palvelu, jossa voi käydä katsomassa poikkeustiedotteita ja tilata tiedotteet sähköpostilla.
 
 * Toteutetaan Reittioppaan mobiiliversio, jolloin matkustaja voi väärään
 paikkaan väärään aikaan päädyttyään hakea uuden reitin.
+
+* Jaetaan poikkeusliikennetiedotteita Twitterissä, jolloin kyseistä
+viestintävälinettä käyttävät matkustajat voivat seurata niitä ja saada niistä
+push-notifikaatioita puhelimeensa.
 
 * Avataan rajapinta HSL Live -palvelun raitiovaunujen reaaliaikadataan, jolloin
 matkustaja voi katsoa eri mobiilisovellusten kartalta liikennetilanteen.
