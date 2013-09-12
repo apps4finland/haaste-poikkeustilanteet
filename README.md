@@ -30,7 +30,7 @@ pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
 ## Haasteeseen liittyvät tapahtumat
 
-_ilmoitetaan myöhemmin_
+Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma avautuu myöhemmin.
 
 ## Mitä voit tehdä seuraavaksi?
 
