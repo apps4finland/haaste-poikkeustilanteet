@@ -12,4 +12,5 @@ tilannesidonnaista. Tämä on vain yksi mahdollisuus ratkaista haastetta.
 Muitakin tapoja, joita on lueteltu kohdassa Haasteen kuvaus, voi hyödyntää.
 Esimerkiksi toimintahäiriöiden ennustaminen liikennehistoriadatan perusteella
 ja yhdistelemällä sitä luovasti vaikkapa Ilmatieteenlaitoksen avoimiin
-aineistohin voisi myös tuottaa mielenkiintosia ratkaisuehdotuksia.
+aineistohin voisi myös tuottaa mielenkiintosia ratkaisuehdotuksia. Tällä hetkellä ei myöskään hyödynnetä käyttäjien tuottamaan tietoa liikennepalveluiden häiriöistä, joita voisi kerätä joko ohjatusti sovelluksen kautta tai tunnistaa sosiaalisen median visteistä.
+
