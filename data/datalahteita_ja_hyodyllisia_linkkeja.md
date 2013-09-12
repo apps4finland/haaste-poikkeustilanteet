@@ -13,10 +13,12 @@ APIt
 
 Dataa
 =====
-[1] Historiadataa aikataulussa pysymisestä
-http://dev.hsl.fi/tmp/visudata/hastus/hastusgps20130114-20130120.zip
-[2.1] Poikkeusilmoitusdataa saa JSON-muodossa rajapinnoista
-* http://pubtrans.it/hsl/disrupt/
-* http://pubtrans.it/hsl/disrupt/line/506
-[2.2] Esimerkki rajapintojen kutsumisesta JavaScriptillä:
+[1] Historiadataa aikataulussa pysymisestä <br>
+http://dev.hsl.fi/tmp/visudata/hastus/hastusgps20130114-20130120.zip <br>
+
+[2.1] Poikkeusilmoitusdataa saa JSON-muodossa rajapinnoista <br>
+* http://pubtrans.it/hsl/disrupt/ <br>
+* http://pubtrans.it/hsl/disrupt/line/506 <br>
+
+[2.2] Esimerkki rajapintojen kutsumisesta JavaScriptillä: <br>
 http://pubtrans.it/hsl/disrupt/example
