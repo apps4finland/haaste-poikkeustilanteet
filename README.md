@@ -1,4 +1,4 @@
-## Tässä kansiossa: kaikki tarpeellinen stressin vähentämiseksi kun bussi ei tule tai ratikka vaihtaa väärille raiteille
+## Tässä kansiossa: kaikki tarpeellinen poikkeustilanteista joukkoliikennematkustajille aiheutuvan stressin vähentämiseksi
 
 Tämä on Apps4Finland-kilpailun _Poikkeustilanteiden hallinta_ -haastetta varten koottu tukipaketti. 
 
