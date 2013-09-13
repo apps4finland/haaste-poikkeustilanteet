@@ -1,16 +1,16 @@
 Haastekumppanien GitHub-kansio
 ==============================
-[1] HSL-Developer https://github.com/HSLdevcom/ <br>
-[2] HSL developer sivut http://dev.hsl.fi
+[1] HSL Developer GitHub https://github.com/HSLdevcom/ <br>
+[2] HSL Developer sivut http://dev.hsl.fi
 
 APIt
 ====
 [1] Joukkoliikenteen, pyöräilyn ja kävelyn reititys http://developer.reittiopas.fi/pages/fi/http-get-interface-version-2.php?lang=EN <br>
-[2] Aikataulut GTFS muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
-[3] Pyöräilyn ja kävelyn Reittiopas (pk.hsl.fi) <br>
-[4] Omat lähdöt, pysäkkikohtaiset aikataulut (www.omatlahdot.fi) <br>
-[5] Poikkeusinfo, poikkeusliikennetiedotteet (www.poikkeusinfo.fi) <br>
-[6] HSL Live, ajoneuvojen reaaliaikainen seuranta (live.mattersoft.fi/hsl/) <br>
+[2] Aikataulut GTFS-muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
+[3] PAikataulut Kalkati.net xml-muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
+[4] Omat lähdöt, pysäkkikohtaiset aikataulut (www.omatlahdot.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
+[5] Poikkeusinfo, poikkeusliikennetiedotteet (www.poikkeusinfo.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
+[6] HSL Live, ajoneuvojen reaaliaikainen seuranta (live.mattersoft.fi/hsl/) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
 
 Dataa
 =====
