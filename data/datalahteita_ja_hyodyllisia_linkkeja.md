@@ -7,7 +7,7 @@ APIt
 ====
 [1] Joukkoliikenteen, pyöräilyn ja kävelyn reititys http://developer.reittiopas.fi/pages/fi/http-get-interface-version-2.php?lang=EN <br>
 [2] Aikataulut GTFS-muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
-[3] PAikataulut Kalkati.net xml-muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
+[3] Aikataulut Kalkati.net xml-muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
 [4] Omat lähdöt, pysäkkikohtaiset aikataulut (www.omatlahdot.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
 [5] Poikkeusinfo, poikkeusliikennetiedotteet (www.poikkeusinfo.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
 [6] HSL Live, ajoneuvojen reaaliaikainen seuranta (live.mattersoft.fi/hsl/) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
