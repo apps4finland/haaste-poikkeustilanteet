@@ -1,11 +1,12 @@
 Haastekumppanien GitHub-kansio
 ==============================
-[1] HSL-Developer https://github.com/HSLdevcom/
+[1] HSL-Developer https://github.com/HSLdevcom/ <br>
+[2] HSL developer sivut http://dev.hsl.fi
 
 APIt
 ====
-[1] http://developer.reittiopas.fi/pages/fi/reittiopas-api.php?lang=FI <br>
-[2] http://developer.reittiopas.fi/pages/fi/http-get-interface-version-2.php <br>
+[1] Joukkoliikenteen, pyöräilyn ja kävelyn reititys http://developer.reittiopas.fi/pages/fi/http-get-interface-version-2.php?lang=EN <br>
+[2] Aikataulut GTFS muodossa http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN <br>
 [3] Pyöräilyn ja kävelyn Reittiopas (pk.hsl.fi) <br>
 [4] Omat lähdöt, pysäkkikohtaiset aikataulut (www.omatlahdot.fi) <br>
 [5] Poikkeusinfo, poikkeusliikennetiedotteet (www.poikkeusinfo.fi) <br>
