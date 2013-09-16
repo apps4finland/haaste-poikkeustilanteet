@@ -45,6 +45,6 @@ Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohj
 
 
 ## Sisältö
-- data-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia
-- code-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
+- [data](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/tree/master/data)-kansiosta löytyy avoimien datalähteiden ja rajapintojen kuvauksia
+- [code](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/tree/master/code)-kansiosta löytyy esimerkkikoodia ja linkkejä teemaan liittyviin avoimen lähdekoodin projekteihin
 - Hyödyllisiä linkkejä esim. sparrausyhteisöihin ja datalähteisiin löytyy [linkkeja](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/blob/master/data/linkkeja.md)-tiedostosta
