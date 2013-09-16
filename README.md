@@ -26,7 +26,7 @@ Luomalla oman ratkaisuehdotuksesi ja ilmoittamalla sen Apps4Finland-kisaan
 [Innosta-](), [Hahmota-](), [Vaikuta-]() tai [Mahdollista]()-sarjaan osallistut kisaan yhteensä 16500 eurosta
 pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
-[ [lisätietoa palkitsemisperusteista](arviointikriteerit.md) ]
+[ [lisätietoa palkitsemisesta](palkitsemisesta.md) ]
 
 ## Haasteeseen liittyvät tapahtumat
 
