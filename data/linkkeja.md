@@ -8,8 +8,10 @@ sparrausyhteisöjen kiinnostuneiden jäsenten kanssa.
 
 Sparrausyhteisöjä
 =================
-[1] HSL Developer GitHub https://github.com/HSLdevcom/ <br>
-[2] HSL Developer sivut http://dev.hsl.fi
+[1] facebook.com/HSLdevcom <br>
+[2] Chat channel #hsldevcom on IRCNet and Freenode networks <br>
+[3] HSL Developer GitHub https://github.com/HSLdevcom/ <br>
+[4] HSL Developer sivut http://dev.hsl.fi
 
 Haastekumppanin GitHub-kansio
 =============================
