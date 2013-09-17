@@ -30,7 +30,8 @@ pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
 ## Haasteeseen liittyvät tapahtumat
 
-Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma: http://forumvirium.fi/tapahtuma/dev4transport-4-5102013.
+* Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma: http://forumvirium.fi/tapahtuma/dev4transport-4-5102013.
+* App4Finland & Apps4Pirkanmaa, 28.9, Uusi Tehdas, Tampere. Ilmoittautumine ja ohjelma: https://okroadshowtampere.eventbrite.com/
 
 ## Mitä voit tehdä seuraavaksi?
 
