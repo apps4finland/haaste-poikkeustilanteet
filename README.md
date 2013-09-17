@@ -30,7 +30,7 @@ pääsarjoissa. Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon.
 
 ## Haasteeseen liittyvät tapahtumat
 
-Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma avautuu myöhemmin.
+Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma: http://forumvirium.fi/tapahtuma/dev4transport-4-5102013.
 
 ## Mitä voit tehdä seuraavaksi?
 
