@@ -41,7 +41,7 @@ kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteysti
 - Jos tiedät jostakin hyödyllisestä, jota tähän tukipakettiin pitäisi lisätä, vinkkaa siitä [issues-osiossa](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/issues?state=open). _Olemme erityisen otettuja esimerkkikoodin lahjoituksista tai uusista tietoaineistoista_.
 - Jos et tiedä jotakin haasteeseen liittyvää asiaa tai saa teknisesti toteutettua mitä haluaisit, kysy siitä [Avoindata-kysymyspalvelussa](http://avoindata.net/). _Apps4Finland-kilpailun kumppanit ja [suomalaiset avoimen datan aktiivit](https://www.facebook.com/groups/fi.okfn/) ovat siellä mukana etsimässä vastauksia kysymyksiin_.
 - Jos etsit työryhmää tai haluat pallotella ratkaisuideaasi, tutustu ainakin näihin [sparrausyhteisöihin](https://github.com/apps4finland/haaste-hsl-poikkeustiedot/blob/master/data/linkkeja.md) tai osallistu haasteeseen liittyviin tapahtumiin (ks. yllä).
-- Jos ei muuta, niin [rekisteröidy GitHubin käyttäjäksi](https://github.com/signup), lue [suomenkielinen pikaoppaamme](https://github.com/apps4finland/github-ohje) ja käytä Apps4Finland-kisaa GitHubin perusjuttujen opetteluun
+- Jos ei muuta, niin [rekisteröidy GitHubin käyttäjäksi](https://github.com/signup), tutustu [GitHub-ohjeisiin](http://sixrevisions.com/resources/git-tutorials-beginners/) ja käytä Apps4Finland-kisaa GitHubin perusjuttujen opetteluun
 tai aloita oma haasteen ratkaisuprojektisi GitHubissa.
 
 
