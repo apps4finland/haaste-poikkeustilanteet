@@ -24,9 +24,9 @@ viestintäkanavan tai uuden reititysalgoritmin.
 
 Apps4Finland-kisan pääsarjoissa on jaossa 16500 euroa erilaisina palkintoina.
 Lisäksi voit voittaa 1000 euron haastekohtaisen lisäpalkinnon ratkaisemalla yllä esitetyn haasteen.
-Kisan _osallistumisohjeet_ ja _säännöt_ päivitetään 19.-20.9. Jos sinulla on mitä tahansa kysyttävää
+Kisan _osallistumisohjeet_ ja _säännöt_ löytyvät kilpailun [pääsivulta](http://apps4finland.fi). Jos sinulla on mitä tahansa kysyttävää
 kisasta, voit aina ottaa yhteyttä kisan projektipäällikköön, jonka yhteystiedot löydät
-[Apps4Finland](http://apps4finland.fi)-kisasivun alalaidasta.
+[Apps4Finland](http://apps4finland.fi)-sivun alalaidasta.
 
 [ [lisätietoa palkitsemisesta](palkitsemisesta.md) ]
 
