@@ -18,7 +18,7 @@ Ratkaisussa voi valita tekniikaksi esim. jonkin uuden visualisointitavan,
 uuden sosiaalisen toimintatavan, uuden tilastollisen mallin, uuden
 viestintäkanavan tai uuden reititysalgoritmin.
 
-[ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
+[ [Katso video](http://vimeo.com/75849509) ] [ [lisätietoa haasteesta](taustatietoa.md) ] [ [inspiraatioksi](inspiraatioksi.md) ]
 
 ## Osallistu Apps4Finland-kisaan
 
