@@ -25,6 +25,7 @@ APIt
 [4] Omat lähdöt, pysäkkikohtaiset aikataulut (www.omatlahdot.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
 [5] Poikkeusinfo, poikkeusliikennetiedotteet (www.poikkeusinfo.fi) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
 [6] HSL Live, ajoneuvojen reaaliaikainen seuranta (live.mattersoft.fi/hsl/) http://developer.reittiopas.fi/pages/fi/other-apis.php?lang=EN<br>
+[7] HSL uutisrajapinta, linjakohtaisesti luokitellut tiedotteet https://www.dropbox.com/s/iey5z5st8knzf8g/HSLNewsApi.rtf
 
 Dataa
 =====
@@ -37,3 +38,8 @@ http://dev.hsl.fi/tmp/visudata/hastus/hastusgps20130114-20130120.zip <br>
 
 [2.2] Esimerkki rajapintojen kutsumisesta JavaScriptillä: <br>
 http://pubtrans.it/hsl/disrupt/example
+
+[2] Asiakastyytyväisyystutkimus <br>
+Tutkimustulosten vastaukset 2011 - 2013(kevät) https://dl.dropboxusercontent.com/u/20567085/Asiakastyytyv%C3%A4isyys/Astydata%202011_31.8.2013.xlsx<br>
+Data map (kysymykset, sisältää syksyllä 2013 käynnissä olevan tutkimuksen kysymykset) https://www.dropbox.com/s/pvpvcv2s5yw1zr7/DataMap_HSL_12082013.xlsx
+
