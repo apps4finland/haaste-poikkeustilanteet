@@ -31,8 +31,7 @@ kisasta, voit aina ottaa yhteyttä kisan [projektipäällikköön](http://www.ap
 
 ## Haasteeseen liittyvät tapahtumat
 
-* Kehittäjätapaaminen, 4.-5.10 YLE:n Iso Paja, Helsinki. Ilmoittautuminen ja ohjelma: http://forumvirium.fi/tapahtuma/dev4transport-4-5102013.
-* App4Finland & Apps4Pirkanmaa, 28.9, Uusi Tehdas, Tampere. Ilmoittautuminen ja ohjelma: https://okroadshowtampere.eventbrite.com/
+* Katso Tapahtumat-otsikon alla [haasteen kotisivulta](http://www.apps4finland.fi/haaste/poikkeustilanteiden-hallinta/).
 
 ## Mitä voit tehdä seuraavaksi?
 
